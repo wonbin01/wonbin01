@@ -14,3 +14,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+
+## 📚 Online Judge
+[![BOJ wbj56](https://img.shields.io/badge/BOJ-wbj56-FF5722?style=flat&logo=appveyor&logoColor=white)](https://www.acmicpc.net/user/wbj56)
+![Solved.ac Profile](https://static.solved.ac/profile_badge/120x120/solves_00200.png)
+
