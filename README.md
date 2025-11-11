@@ -16,5 +16,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
 ## 📚 Online Judge
-[![BOJ wbj56](https://img.shields.io/badge/BOJ-wbj56-FF5722?style=flat&logo=appveyor&logoColor=white)](https://www.acmicpc.net/user/wbj56)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wbj56)](https://solved.ac/wbj56)
+
 
