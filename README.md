@@ -7,9 +7,9 @@
 - 백엔드 개발자
 
 ## 🛠️ Tech Stacks
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
 <br>
