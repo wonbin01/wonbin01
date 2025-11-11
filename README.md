@@ -17,5 +17,4 @@
 
 ## 📚 Online Judge
 [![BOJ wbj56](https://img.shields.io/badge/BOJ-wbj56-FF5722?style=flat&logo=appveyor&logoColor=white)](https://www.acmicpc.net/user/wbj56)
-![Solved.ac Profile](https://static.solved.ac/profile_badge/120x120/solves_00200.png)
 
