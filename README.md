@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Hello%20I'm%20WONBIN&animation=fadeIn&fontColor=000000&fontSize=60" />
-</div>
-
 ## About me! 
 - 아주대학교 소프트웨어학과 재학
 - 백엔드 개발자
