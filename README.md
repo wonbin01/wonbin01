@@ -1,6 +1,7 @@
 ## About me! 
 - 아주대학교 소프트웨어학과 재학
 - 백엔드 개발자
+- 소프트웨어 마이스트로 17기
 
 ## 🛠️ Tech Stacks
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
